@@ -223,6 +223,7 @@ Signed,
 - David Revoy (Pepper&Carrot)
 - David Thompson (GNU Guile/Guix contributor, ex-FSF)
 - David Turner (former GPL Compliance Engineer at FSF)
+- David Wadie Fisher-Freberg
 - D. Ben Knoble
 - Dennis Schubert (Mozilla, former diaspora\* maintainer)
 - Desiree Zamora Garcia (A List Apart)
